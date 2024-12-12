@@ -55,6 +55,7 @@ This project is a Pac-Man game implemented using TypeScript and React. The game 
 ## Screenshots
 <div style="display: flex; justify-content: center; " align="center">
   <img src="public/screenshot%20(1).png" alt="Screenshot 1" style="height: 300px;">
+  <img src="public/screenshot%20(2).png" alt="Screenshot 2" style="height: 300px;">
   Please note that the screenshots provided are from a development version of the game and may differ slightly from the current version.
   
 </div>
