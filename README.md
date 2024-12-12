@@ -8,22 +8,13 @@ This project is a Pac-Man game implemented using TypeScript and React. The game 
 
 </div>
 
-<div align="center">
-
-# Pac-Man Game
-
-![Pac-Man](src/assets/icon.png)
-
-This project is a Pac-Man game implemented using TypeScript and React. The game features classic Pac-Man gameplay, including ghosts, pellets, and a maze.
-
-</div>
-
 <div style="margin-top: 20px;">
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 </div>
@@ -56,6 +47,15 @@ This project is a Pac-Man game implemented using TypeScript and React. The game 
   npm start
   ```
 2. Open your browser and navigate to `http://localhost:3000` to play the game.
+
+</div>
+
+<div style="margin-top: 20px;">
+
+## Screenshots
+
+![Screenshot 1](public/screenshot%20(1).png)
+![Screenshot 2](public/screenshot%20(2).png)
 
 </div>
 
