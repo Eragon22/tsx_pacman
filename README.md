@@ -1,6 +1,6 @@
 # Pac-Man Game
 
-![Pac-Man](icon.png)
+![Pac-Man](src/assets/icon.png)
 
 This project is a Pac-Man game implemented using TypeScript and React. The game features classic Pac-Man gameplay, including ghosts, pellets, and a maze.
 
