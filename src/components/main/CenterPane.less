@@ -1,0 +1,43 @@
+.CenterPane {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.CenterPane .StartButton {
+    width: 30%;
+    min-height: 4rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.CenterPane .difficultySlider {
+    height: 1.5rem;
+    -webkit-appearance: none;
+    appearance: none;
+    background: white;
+    outline: 2px solid white;
+    ;
+    border-radius: 0.2rem;
+
+    &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 1rem;
+        height: 1.3rem;
+        background: black;
+        border: none;
+    }
+
+    &::-moz-range-thumb {
+        width: 1rem;
+        height: 1.3rem;
+        background: black;
+        border: none;
+    }
+}
+
+.CenterPane .difficultySliderLabel {
+    font-size: 1.5rem;
+}

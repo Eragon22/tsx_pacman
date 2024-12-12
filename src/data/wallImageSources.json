@@ -1,0 +1,15 @@
+{
+    "l": "./src/assets/tiles/left.png",
+    "r": "./src/assets/tiles/right.png",
+    "u": "./src/assets/tiles/up.png",
+    "d": "./src/assets/tiles/down.png",
+    "ruc": "./src/assets/tiles/rightupcorner.png",
+    "rdc": "./src/assets/tiles/rightdowncorner.png",
+    "luc": "./src/assets/tiles/leftupcorner.png",
+    "ldc": "./src/assets/tiles/leftdowncorner.png",
+    "f": "./src/assets/tiles/fill.png",
+    "ld": "./src/assets/tiles/leftdown.png",
+    "lu": "./src/assets/tiles/leftup.png",
+    "rd": "./src/assets/tiles/rightdown.png",
+    "ru": "./src/assets/tiles/rightup.png"
+}

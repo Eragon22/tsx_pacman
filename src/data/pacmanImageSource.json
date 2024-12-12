@@ -1,0 +1,6 @@
+{
+    "pacman1": "./src/assets/pacman/pacman1.png",
+    "pacman2": "./src/assets/pacman/pacman2.png",
+    "pacman3": "./src/assets/pacman/pacman3.png",
+    "pacman4": "./src/assets/pacman/pacman4.png"
+}
